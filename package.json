@@ -7,7 +7,7 @@
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "moment": "^2.29.1",
-    "prop-types": "^15.7.2",
+    "prop-types": "^15.8.1",
     "push-dir": "^0.4.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
@@ -41,6 +41,14 @@
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
   "devDependencies": {},
-  "author": "",
-  "license": "ISC"
+  "author": "vika",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viktorka1347/reac.git"
+  },
+  "bugs": {
+    "url": "https://github.com/viktorka1347/reac/issues"
+  },
+  "homepage": "https://github.com/viktorka1347/reac#readme"
 }
