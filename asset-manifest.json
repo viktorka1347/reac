@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/viktorka1347/reacstatic/css/main.f37b6018.chunk.css",
+    "main.js": "/viktorka1347/reacstatic/js/main.396411b6.chunk.js",
+    "main.js.map": "/viktorka1347/reacstatic/js/main.396411b6.chunk.js.map",
+    "runtime-main.js": "/viktorka1347/reacstatic/js/runtime-main.8c264e03.js",
+    "runtime-main.js.map": "/viktorka1347/reacstatic/js/runtime-main.8c264e03.js.map",
+    "static/js/2.1c546b4b.chunk.js": "/viktorka1347/reacstatic/js/2.1c546b4b.chunk.js",
+    "static/js/2.1c546b4b.chunk.js.map": "/viktorka1347/reacstatic/js/2.1c546b4b.chunk.js.map",
+    "index.html": "/viktorka1347/reacindex.html",
+    "static/css/main.f37b6018.chunk.css.map": "/viktorka1347/reacstatic/css/main.f37b6018.chunk.css.map",
+    "static/js/2.1c546b4b.chunk.js.LICENSE.txt": "/viktorka1347/reacstatic/js/2.1c546b4b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/viktorka1347/reacstatic/media/item-blue.2103f69b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c264e03.js",
+    "static/js/2.1c546b4b.chunk.js",
+    "static/css/main.f37b6018.chunk.css",
+    "static/js/main.396411b6.chunk.js"
+  ]
+}
